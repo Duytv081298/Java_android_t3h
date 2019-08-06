@@ -1,12 +1,14 @@
+import java.util.Calendar;
+
 public class Bai35 {
     int namsinh, tuoi;
     String  ten;
     void nhap (String gtten, int gtnamsinh){
         namsinh = gtnamsinh;
         ten = gtten;
-        int nam = cal.get(Calendar.YEAR);
-        if (namsinh <= Date().getTime()){
-            tuoi = Date().getTime() - namsinh;
+        int nam = Calendar.getInstance().get(Calendar.YEAR);
+        if (namsinh <= nam){
+            tuoi = nam - namsinh;
             System.out.println(ten + " có số tuổi là: "+ tuoi);
         }
     }

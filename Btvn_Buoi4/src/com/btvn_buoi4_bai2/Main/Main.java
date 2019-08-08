@@ -40,16 +40,34 @@ public class Main {
                 int viTri = 1;
                 System.out.println(nhacs.get(viTri));
                 do {
-                    System.out.println("Nhập điều kiện:");
+                    System.out.println("Enter your choise: \n" +
+                            "1: Play \n" +
+                            "2: Next \n" +
+                            "3: Back \n" +
+                            "4: Pause \n");
                     n = scanner.nextLine().toUpperCase();
                     if (n.equals("NEXT")) {
                         viTri += 1;
-                        System.out.println("Next bài mới:");
-                        System.out.println(nhacs.get(viTri));
+                        if(viTri > nhacs.size()) {
+                            System.out.println("Không bài kế tiếp\n");
+                            viTri -= 1;
+                            System.out.println("Bài hát hiện tại: ");
+                            System.out.println(nhacs.get(viTri));
+                        }else {
+                            System.out.println("Next bài mới:");
+                            System.out.println(nhacs.get(viTri));
+                        }
                     } else if (n.equals("BACK")) {
-                        System.out.println("Quay lại bài trước: ");
                         viTri -= 1;
-                        System.out.println(nhacs.get(viTri));
+                        if(viTri < 0) {
+                            System.out.println("Không bài phía trước\n");
+                            viTri += 1;
+                            System.out.println("Bài hát hiện tại: ");
+                            System.out.println(nhacs.get(viTri));
+                        }else {
+                            System.out.println("Quay lại bài trước: ");
+                            System.out.println(nhacs.get(viTri));
+                        }
                     } else if (n.equals("PLAY")) {
                         System.out.println("Bài hát đang phát: ");
                         System.out.println(nhacs.get(viTri));
@@ -68,16 +86,34 @@ public class Main {
                 int viTri = 1;
                 System.out.println(videos.get(viTri));
                 do {
-                    System.out.println("Nhập điều kiện:");
+                    System.out.println("Enter your choise: \n" +
+                            "1: Play \n" +
+                            "2: Next \n" +
+                            "3: Back \n" +
+                            "4: Pause \n");
                     m = scanner.nextLine().toUpperCase();
                     if (m.equals("NEXT")) {
                         viTri += 1;
-                        System.out.println("Next bài mới:");
-                        System.out.println(videos.get(viTri));
+                        if(viTri > videos.size()) {
+                            System.out.println("Không bài kế tiếp\n");
+                            viTri -= 1;
+                            System.out.println("Bài hát hiện tại: ");
+                            System.out.println(nhacs.get(viTri));
+                        }else {
+                            System.out.println("Next bài mới:");
+                            System.out.println(videos.get(viTri));
+                        }
                     } else if (m.equals("BACK")) {
-                        System.out.println("Quay lại bài trước: ");
                         viTri -= 1;
-                        System.out.println(videos.get(viTri));
+                        if(viTri < 0) {
+                            System.out.println("Không bài phía trước\n");
+                            viTri += 1;
+                            System.out.println("Bài hát hiện tại: ");
+                            System.out.println(nhacs.get(viTri));
+                        }else {
+                            System.out.println("Quay lại bài trước: ");
+                            System.out.println(videos.get(viTri));
+                        }
                     } else if (m.equals("PLAY")) {
                         System.out.println("Bài hát đang phát: ");
                         System.out.println(videos.get(viTri));

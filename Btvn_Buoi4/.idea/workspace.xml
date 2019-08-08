@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b8e79e9-1070-4432-b56b-3e76d0197901" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi4_bai1/ButVe/ButDo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi4_bai1/ButVe/ButVe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi4_bai1/ButVe/ButXanh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi4_bai1/Hinh/Hinh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi4_bai1/Hinh/HinhChuNhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi4_bai1/Hinh/HinhTamGiac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi4_bai1/Hinh/HinhTron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi4_bai1/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi4_bai2/AmNhac/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi4_bai2/AmNhac/Nhac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi4_bai2/AmNhac/Video.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi4_bai2/Main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Buoi4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/btvn_buoi4_bai2/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/btvn_buoi4_bai2/Main/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/btvn_buoi4_bai2/Main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="61" column="57" selection-start-line="61" selection-start-column="57" selection-end-line="61" selection-end-column="57" />
+            <state relative-caret-position="357">
+              <caret line="130" column="22" lean-forward="true" selection-start-line="130" selection-start-column="22" selection-end-line="130" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/btvn_buoi4_bai2/AmNhac/Video.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="49" lean-forward="true" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+              <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-152" />
     <option name="y" value="-8" />
     <option name="width" value="1940" />
@@ -310,12 +297,13 @@
       <option name="presentableId" value="Default" />
       <updated>1565155793983</updated>
       <workItem from="1565155797043" duration="9060000" />
-      <workItem from="1565225540145" duration="11556000" />
+      <workItem from="1565225540145" duration="11873000" />
+      <workItem from="1565253996663" duration="1256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20616000" />
+    <option name="totallyTimeSpent" value="22189000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -326,7 +314,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
@@ -354,18 +342,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/btvn_buoi4_bai2/Main/Main.java</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/btvn_buoi4/Main.java" />
@@ -426,9 +402,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/btvn_buoi4_bai2/Main/E.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/btvn_buoi4_bai2/Main/E.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/jre/lib/rt.jar!/java/util/AbstractList.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-100">
@@ -436,30 +410,6 @@
           <folding>
             <element signature="e#622#623#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/btvn_buoi4_bai2/Main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="61" column="57" selection-start-line="61" selection-start-column="57" selection-end-line="61" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/btvn_buoi4_bai1/Hinh/Hinh.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/btvn_buoi4_bai1/Hinh/HinhChuNhat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -474,6 +424,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/btvn_buoi4_bai1/Hinh/HinhChuNhat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/btvn_buoi4_bai1/Hinh/Hinh.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/btvn_buoi4_bai2/AmNhac/Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/btvn_buoi4_bai2/AmNhac/Music.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -484,10 +458,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/btvn_buoi4_bai2/AmNhac/Video.java">
+    <entry file="file://$PROJECT_DIR$/src/com/btvn_buoi4_bai2/Main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="49" lean-forward="true" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        <state relative-caret-position="357">
+          <caret line="130" column="22" lean-forward="true" selection-start-line="130" selection-start-column="22" selection-end-line="130" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

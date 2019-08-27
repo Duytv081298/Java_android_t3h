@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4dc81151-2edd-4af4-80a4-8b3f7d0b7392" name="Default Changelist" comment="">
+    <list default="true" id="fd290dc6-2491-4923-9207-80b9cf2e8145" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/.idea/vcs.xml" afterDir="false" />
@@ -26,23 +26,28 @@
       <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai2/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai2/Student.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai2/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai3/ArrayUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai4/DanhBa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai4/QuanLy.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Buoi5/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Buoi5/src/com/t3h/hinhhoc/HinhChuNhat.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Buoi5/src/com/t3h/hinhhoc/HinhHoc.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Buoi5/src/com/t3h/hinhhoc/HinhTamGiac.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Buoi5/src/com/t3h/hinhhoc/HinhTron.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Buoi5/src/com/t3h/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/mangdong/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/mangdong/MangDong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/mangtinh/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/mangtinh/MangTinh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/sinhvien/Lop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/sinhvien/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/sinhvien/SinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/mangdong/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/mangdong/MangDong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/mangtinh/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/mangtinh/MangTinh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/sinhvien/Lop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/sinhvien/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/sinhvien/SinhVien.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Btvn_Buoi4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Btvn_Buoi4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Btvn_Buoi4/src/com/btvn_buoi4_bai2/AmNhac/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Btvn_Buoi4/src/com/btvn_buoi4_bai2/AmNhac/Video.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi4/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,66 +57,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ConNguoi.java">
+        <entry file="file://$PROJECT_DIR$/src/com/t3h/mangtinh/MangTinh.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/t3h/dongvat/DongVat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/t3h/connguoi/ConNguoi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/t3h/connguoi/VanDongVien.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/t3h/connguoi/NguoiMau.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-              <folding>
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
-                <element signature="e#570#571#0" expanded="true" />
-                <element signature="e#615#616#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/t3h/Main/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="221">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,36 +75,61 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/t3h/dongvat/Cho.java">
+        <entry file="file://$PROJECT_DIR$/src/com/t3h/mangtinh/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="68">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/t3h/mangdong/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
               <folding>
-                <element signature="e#595#596#0" expanded="true" />
-                <element signature="e#644#645#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/t3h/dongvat/Meo.java">
+        <entry file="file://$PROJECT_DIR$/src/com/t3h/mangdong/MangDong.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#129#130#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/t3h/sinhvien/SinhVien.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/t3h/sinhvien/Lop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/t3h/sinhvien/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -169,18 +149,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SinhVien.java" />
-        <option value="$PROJECT_DIR$/src/ConNguoi.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/HocSinh.java" />
-        <option value="$PROJECT_DIR$/src/NhanVien.java" />
-        <option value="$PROJECT_DIR$/src/com/t3h/dongvat/DongVat.java" />
-        <option value="$PROJECT_DIR$/src/com/t3h/dongvat/Cho.java" />
-        <option value="$PROJECT_DIR$/src/com/t3h/dongvat/Meo.java" />
-        <option value="$PROJECT_DIR$/src/com/t3h/connguoi/ConNguoi.java" />
-        <option value="$PROJECT_DIR$/src/com/t3h/connguoi/VanDongVien.java" />
-        <option value="$PROJECT_DIR$/src/com/t3h/connguoi/NguoiMau.java" />
-        <option value="$PROJECT_DIR$/src/com/t3h/Main/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/t3h/mangtinh/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/t3h/mangdong/MangDong.java" />
+        <option value="$PROJECT_DIR$/src/com/t3h/mangdong/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/t3h/sinhvien/SinhVien.java" />
+        <option value="$PROJECT_DIR$/src/com/t3h/sinhvien/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/t3h/sinhvien/Lop.java" />
+        <option value="$PROJECT_DIR$/src/com/t3h/mangtinh/MangTinh.java" />
       </list>
     </option>
   </component>
@@ -198,50 +173,50 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Buoi4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Buoi4" type="462c0819:PsiDirectoryNode" />
+              <item name="Buoi6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Buoi6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Buoi4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Buoi4" type="462c0819:PsiDirectoryNode" />
+              <item name="Buoi6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Buoi6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Buoi4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Buoi4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="t3h" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Buoi4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Buoi4" type="462c0819:PsiDirectoryNode" />
+              <item name="Buoi6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Buoi6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="t3h" type="462c0819:PsiDirectoryNode" />
-              <item name="connguoi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Buoi4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Buoi4" type="462c0819:PsiDirectoryNode" />
+              <item name="Buoi6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Buoi6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="t3h" type="462c0819:PsiDirectoryNode" />
-              <item name="dongvat" type="462c0819:PsiDirectoryNode" />
+              <item name="mangdong" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Buoi4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Buoi4" type="462c0819:PsiDirectoryNode" />
+              <item name="Buoi6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Buoi6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="t3h" type="462c0819:PsiDirectoryNode" />
-              <item name="Main" type="462c0819:PsiDirectoryNode" />
+              <item name="mangtinh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Buoi6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Buoi6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="t3h" type="462c0819:PsiDirectoryNode" />
+              <item name="sinhvien" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -250,7 +225,6 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Btvn_Buoi5" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -259,6 +233,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -272,13 +247,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.t3h.Main.Main" />
-      <module name="Buoi4" />
+      <option name="MAIN_CLASS_NAME" value="com.t3h.mangdong.Main" />
+      <module name="Buoi6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.t3h.Main.*" />
+          <option name="PATTERN" value="com.t3h.mangdong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.t3h.sinhvien.Main" />
+      <module name="Buoi6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.t3h.sinhvien.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,14 +275,21 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Buoi4" />
+      <option name="MAIN_CLASS_NAME" value="com.t3h.mangtinh.Main" />
+      <module name="Buoi6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.t3h.mangtinh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -305,23 +300,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4dc81151-2edd-4af4-80a4-8b3f7d0b7392" name="Default Changelist" comment="" />
-      <created>1565090861383</created>
+      <changelist id="fd290dc6-2491-4923-9207-80b9cf2e8145" name="Default Changelist" comment="" />
+      <created>1566472227427</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1565090861383</updated>
-      <workItem from="1565090865902" duration="9030000" />
-      <workItem from="1565155701242" duration="94000" />
-      <workItem from="1565158387013" duration="784000" />
-      <workItem from="1565852192800" duration="159000" />
-      <workItem from="1565852841594" duration="780000" />
-      <workItem from="1566276005112" duration="135000" />
-      <workItem from="1566887395636" duration="8000" />
+      <updated>1566472227427</updated>
+      <workItem from="1566472228736" duration="9465000" />
+      <workItem from="1566526073064" duration="816000" />
+      <workItem from="1566879464982" duration="12882000" />
+      <workItem from="1566903727503" duration="27000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10990000" />
+    <option name="totallyTimeSpent" value="23190000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -332,19 +324,19 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.26599148" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" weight="0.32917964" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.32917964" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.26583594" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.30218068" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32917964" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="right" id="Theme Preview" order="0" />
@@ -361,105 +353,76 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/t3h/mangtinh/MangTinh.java</url>
+          <line>24</line>
+          <properties class="com.t3h.mangtinh.MangTinh" method="SSTangDan">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SinhVien.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HocSinh.java">
+    <entry file="file://$PROJECT_DIR$/src/com/t3h/mangtinh/MangTinh.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="43" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="13" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NhanVien.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConNguoi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/t3h/dongvat/DongVat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/t3h/connguoi/ConNguoi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/t3h/connguoi/VanDongVien.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/t3h/connguoi/NguoiMau.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-          <folding>
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/t3h/Main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/t3h/dongvat/Cho.java">
+    <entry file="file://$PROJECT_DIR$/src/com/t3h/mangtinh/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="68">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/t3h/mangdong/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
           <folding>
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/t3h/dongvat/Meo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/t3h/mangdong/MangDong.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/t3h/sinhvien/Lop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
           <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/t3h/sinhvien/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/t3h/sinhvien/SinhVien.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
         </state>
       </provider>
     </entry>

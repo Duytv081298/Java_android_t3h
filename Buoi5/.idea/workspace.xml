@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60ce5131-5953-41a4-8ae5-69f2ceb7ea1c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/BTVN_Buoi5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/mammals/Cats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/mammals/Dogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/mammals/Mammals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/qlct/Chi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/qlct/DichVu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/qlct/Nguoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/qlct/No.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/qlct/Thu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/qlct/Vay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/BTVN_Buoi6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai2/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/hinhhoc/HinhChuNhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/hinhhoc/HinhHoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/hinhhoc/HinhTamGiac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/hinhhoc/HinhTron.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/mangdong/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/mangdong/MangDong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/mangtinh/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/mangtinh/MangTinh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/sinhvien/Lop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/sinhvien/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/sinhvien/SinhVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Btvn_Buoi4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Btvn_Buoi4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Btvn_Buoi4/src/com/btvn_buoi4_bai2/AmNhac/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Btvn_Buoi4/src/com/btvn_buoi4_bai2/AmNhac/Video.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi4/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/t3h/hinhhoc/HinhHoc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/t3h/hinhhoc/HinhTamGiac.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/t3h/hinhhoc/HinhTron.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="e#783#784#0" expanded="true" />
+                <element signature="e#830#831#0" expanded="true" />
+                <element signature="e#863#864#0" expanded="true" />
+                <element signature="e#889#890#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/t3h/main/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/t3h/hinhhoc/HinhChuNhat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="e#825#826#0" expanded="true" />
+                <element signature="e#884#885#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/t3h/hinhhoc/HinhTamGiac.java" />
+        <option value="$PROJECT_DIR$/src/com/t3h/hinhhoc/HinhHoc.java" />
+        <option value="$PROJECT_DIR$/src/com/t3h/hinhhoc/HinhChuNhat.java" />
+        <option value="$PROJECT_DIR$/src/com/t3h/hinhhoc/HinhTron.java" />
+        <option value="$PROJECT_DIR$/src/com/t3h/main/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-152" />
+    <option name="y" value="-8" />
+    <option name="width" value="1940" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Buoi5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Buoi5" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BTVN_Buoi5" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.t3h.main.Main" />
+      <module name="Buoi5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.t3h.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60ce5131-5953-41a4-8ae5-69f2ceb7ea1c" name="Default Changelist" comment="" />
+      <created>1565264650306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565264650306</updated>
+      <workItem from="1565264654451" duration="6162000" />
+      <workItem from="1565791046471" duration="1267000" />
+      <workItem from="1565830525557" duration="1303000" />
+      <workItem from="1565850974677" duration="17000" />
+      <workItem from="1566887327803" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8805000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/t3h/hinhhoc/HinhHoc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/t3h/hinhhoc/HinhTamGiac.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/t3h/hinhhoc/HinhTron.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/t3h/hinhhoc/HinhChuNhat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/t3h/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

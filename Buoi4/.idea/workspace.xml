@@ -2,49 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4dc81151-2edd-4af4-80a4-8b3f7d0b7392" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/BTVN_Buoi5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/mammals/Cats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/mammals/Dogs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/mammals/Mammals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/qlct/Chi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/qlct/DichVu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/qlct/Nguoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/qlct/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/qlct/Thu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/qlct/Vay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/BTVN_Buoi6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai2/StudentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi5/src/com/t3h/hinhhoc/HinhChuNhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi5/src/com/t3h/hinhhoc/HinhHoc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi5/src/com/t3h/hinhhoc/HinhTamGiac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi5/src/com/t3h/hinhhoc/HinhTron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi5/src/com/t3h/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/mangdong/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/mangdong/MangDong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/mangtinh/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/mangtinh/MangTinh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/sinhvien/Lop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/sinhvien/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/sinhvien/SinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi7/BTVN_Buoi7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi7/src/com/btvn_buoi7/bai1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi7/src/com/btvn_buoi7/bai1/MyString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi7/src/com/btvn_buoi7/bai2/ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi7/src/com/btvn_buoi7/bai2/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi7/src/com/btvn_buoi7/bai2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi8/src/com/t3h/exception/FixMe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi8/src/com/t3h/exception/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi8/src/com/t3h/file/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi8/src/com/t3h/file/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi8/src/com/t3h/immutable/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVN_Buoi5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVN_Buoi5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVN_Buoi6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVN_Buoi6/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Btvn_Buoi4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Btvn_Buoi4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Btvn_Buoi4/src/com/btvn_buoi4_bai2/AmNhac/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Btvn_Buoi4/src/com/btvn_buoi4_bai2/AmNhac/Video.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi7/out/production/Buoi7/com/t3h/immutable/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi7/out/production/Buoi7/com/t3h/immutable/Main.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,108 +34,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ConNguoi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/t3h/dongvat/DongVat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/t3h/connguoi/ConNguoi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/t3h/connguoi/VanDongVien.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/t3h/connguoi/NguoiMau.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-              <folding>
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
-                <element signature="e#570#571#0" expanded="true" />
-                <element signature="e#615#616#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/t3h/Main/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/t3h/dongvat/Cho.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="e#595#596#0" expanded="true" />
-                <element signature="e#644#645#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/t3h/dongvat/Meo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#129#130#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -166,91 +45,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/SinhVien.java" />
-        <option value="$PROJECT_DIR$/src/ConNguoi.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/HocSinh.java" />
-        <option value="$PROJECT_DIR$/src/NhanVien.java" />
-        <option value="$PROJECT_DIR$/src/com/t3h/dongvat/DongVat.java" />
-        <option value="$PROJECT_DIR$/src/com/t3h/dongvat/Cho.java" />
-        <option value="$PROJECT_DIR$/src/com/t3h/dongvat/Meo.java" />
-        <option value="$PROJECT_DIR$/src/com/t3h/connguoi/ConNguoi.java" />
-        <option value="$PROJECT_DIR$/src/com/t3h/connguoi/VanDongVien.java" />
-        <option value="$PROJECT_DIR$/src/com/t3h/connguoi/NguoiMau.java" />
-        <option value="$PROJECT_DIR$/src/com/t3h/Main/Main.java" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="21" />
     <option name="y" value="-20" />
     <option name="width" value="1940" />
     <option name="height" value="1044" />
   </component>
+  <component name="ProjectId" id="1QSSB8cpMmxXNvLLIhgfceaFyCL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Buoi4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Buoi4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Buoi4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Buoi4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Buoi4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Buoi4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="t3h" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Buoi4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Buoi4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="t3h" type="462c0819:PsiDirectoryNode" />
-              <item name="connguoi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Buoi4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Buoi4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="t3h" type="462c0819:PsiDirectoryNode" />
-              <item name="dongvat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Buoi4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Buoi4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="t3h" type="462c0819:PsiDirectoryNode" />
-              <item name="Main" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Btvn_Buoi5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -317,151 +127,22 @@
       <workItem from="1565852841594" duration="780000" />
       <workItem from="1566276005112" duration="135000" />
       <workItem from="1566887395636" duration="8000" />
+      <workItem from="1567762367197" duration="59000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10990000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Designer" order="0" />
-      <window_info id="UI Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.26599148" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.32917964" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="right" id="Theme Preview" order="0" />
-      <window_info anchor="right" id="Database" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SinhVien.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HocSinh.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="43" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="13" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NhanVien.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConNguoi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/t3h/dongvat/DongVat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/t3h/connguoi/ConNguoi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/t3h/connguoi/VanDongVien.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/t3h/connguoi/NguoiMau.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-          <folding>
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/t3h/Main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/t3h/dongvat/Cho.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/t3h/dongvat/Meo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

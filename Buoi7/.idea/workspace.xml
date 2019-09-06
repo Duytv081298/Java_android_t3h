@@ -2,56 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f73dce74-3cbb-45be-89c4-49786877a41a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/BTVN_Buoi5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/mammals/Cats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/mammals/Dogs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/mammals/Mammals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/qlct/Chi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/qlct/DichVu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/qlct/Nguoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/qlct/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/qlct/Thu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi5/src/com/btvn5/qlct/Vay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/BTVN_Buoi6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai2/StudentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai3/ArrayUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai4/DanhBa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi6/src/com/btvn_buoi6/bai4/QuanLy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi5/src/com/t3h/hinhhoc/HinhChuNhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi5/src/com/t3h/hinhhoc/HinhHoc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi5/src/com/t3h/hinhhoc/HinhTamGiac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi5/src/com/t3h/hinhhoc/HinhTron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi5/src/com/t3h/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/mangdong/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/mangdong/MangDong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/mangtinh/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/mangtinh/MangTinh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/sinhvien/Lop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/sinhvien/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Buoi6/src/com/t3h/sinhvien/SinhVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/t3h/immutable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi7/BTVN_Buoi7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi7/src/com/btvn_buoi7/bai1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi7/src/com/btvn_buoi7/bai1/MyString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi7/src/com/btvn_buoi7/bai2/ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi7/src/com/btvn_buoi7/bai2/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi7/src/com/btvn_buoi7/bai2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi8/src/com/t3h/exception/FixMe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi8/src/com/t3h/exception/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi8/src/com/t3h/file/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi8/src/com/t3h/file/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi8/src/com/t3h/immutable/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVN_Buoi6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVN_Buoi6/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Btvn_Buoi4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Btvn_Buoi4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Btvn_Buoi4/src/com/btvn_buoi4_bai2/AmNhac/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Btvn_Buoi4/src/com/btvn_buoi4_bai2/AmNhac/Video.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Buoi4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Buoi7/com/t3h/immutable/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Buoi7/com/t3h/immutable/Main.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,21 +34,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/t3h/immutable/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="84" column="28" lean-forward="true" selection-start-line="84" selection-start-column="28" selection-end-line="84" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -85,47 +46,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/t3h/immutable/Main.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="21" />
-    <option name="y" value="-20" />
-    <option name="width" value="1940" />
-    <option name="height" value="1044" />
-  </component>
+  <component name="ProjectId" id="1QKnrNgxJaWZkBcns0S1Sjcfdzz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Buoi7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Buoi7" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Btvn_Buoi5" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -172,57 +108,48 @@
       <option name="presentableId" value="Default" />
       <updated>1566906856950</updated>
       <workItem from="1566906858428" duration="6341000" />
+      <workItem from="1566962469474" duration="7154000" />
+      <workItem from="1567004829264" duration="196000" />
+      <workItem from="1567041907866" duration="606000" />
+      <workItem from="1567052244794" duration="774000" />
+      <workItem from="1567057549511" duration="649000" />
+      <workItem from="1567067736459" duration="219000" />
+      <workItem from="1567528357286" duration="47000" />
+      <workItem from="1567528431191" duration="12000" />
+      <workItem from="1567571645076" duration="9000" />
+      <workItem from="1567577215102" duration="131000" />
+      <workItem from="1567651722857" duration="395000" />
+      <workItem from="1567652166729" duration="2235000" />
+      <workItem from="1567677675688" duration="1318000" />
+      <workItem from="1567759509688" duration="2799000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6341000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/t3h/immutable/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="84" column="28" lean-forward="true" selection-start-line="84" selection-start-column="28" selection-end-line="84" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/t3h/immutable/Main.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6279eb20-e48d-4027-9e51-25271e85c7dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BTVN_Buoi7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi7/bai1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi7/bai1/MyString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi7/bai2/ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi7/bai2/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi7/bai2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi8/src/com/t3h/exception/FixMe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi8/src/com/t3h/exception/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi8/src/com/t3h/file/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi8/src/com/t3h/file/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi8/src/com/t3h/immutable/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVN_Buoi6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVN_Buoi6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi7/out/production/Buoi7/com/t3h/immutable/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi7/out/production/Buoi7/com/t3h/immutable/Main.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1QOr9U7qXXz9Wl2oG3IFqDkSStZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.btvn_buoi7.bai2.Main" />
+      <module name="BTVN_Buoi7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.btvn_buoi7.bai2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.btvn_buoi7.bai1.Main" />
+      <module name="BTVN_Buoi7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.btvn_buoi7.bai1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6279eb20-e48d-4027-9e51-25271e85c7dd" name="Default Changelist" comment="" />
+      <created>1566962502122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566962502122</updated>
+      <workItem from="1566962503399" duration="15502000" />
+      <workItem from="1567041973694" duration="723000" />
+      <workItem from="1567052310470" duration="3310000" />
+      <workItem from="1567057663566" duration="8521000" />
+      <workItem from="1567067735333" duration="223000" />
+      <workItem from="1567068400383" duration="5089000" />
+      <workItem from="1567501217417" duration="885000" />
+      <workItem from="1567508125969" duration="1626000" />
+      <workItem from="1567652332577" duration="2772000" />
+      <workItem from="1567677244363" duration="916000" />
+      <workItem from="1567681957530" duration="349000" />
+      <workItem from="1567761022496" duration="1023000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/btvn_buoi7/bai2/ArrayLists.java</url>
+          <line>83</line>
+          <properties class="com.btvn_buoi7.bai2.ArrayLists" method="tinh">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

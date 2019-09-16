@@ -21,6 +21,8 @@ public class SmartString {
     public SmartString(String text) {
         this.text = text;
     }
+
+
     public void filter() {
         int count = 0;
         int indexStartTitle = text.indexOf(StartTitle);
@@ -53,6 +55,7 @@ public class SmartString {
             indexEndLinkImg = text.indexOf(EndLinkImg, indexEndLinkImg + 1);
             indexStartDate = text.indexOf(StartDate, indexStartDate + 1);
             indexEndDate = text.indexOf(EndDate, indexEndDate + 1);
+
             count += 1;
         }
     }

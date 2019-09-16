@@ -84,6 +84,4 @@ public class Manager {
             System.out.println("========================");
         }
     }
-
-
 }

@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a80cc17-ec2e-41bc-b00a-ac9e263eb3d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi10/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi10/BTVN_Buoi10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi10/src/com/btvn_buoi10/bai1/gui/MenuPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi10/src/com/btvn_buoi10/bai1/gui/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi10/src/com/btvn_buoi10/bai1/gui/MyPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi10/src/com/btvn_buoi10/bai1/gui/PlayGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi10/src/com/btvn_buoi10/bai1/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi10/src/com/btvn_buoi10/bai2/gui/Layout1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi10/src/com/btvn_buoi10/bai2/gui/Layout2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi10/src/com/btvn_buoi10/bai2/gui/Layout3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi10/src/com/btvn_buoi10/bai2/gui/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi10/src/com/btvn_buoi10/bai2/gui/MyPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi10/src/com/btvn_buoi10/bai2/gui/OMau.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN_Buoi10/src/com/btvn_buoi10/bai2/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BTVN_Buoi11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BTVN_Buoi11/com/btvn_buoi11/bai1/gui/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BTVN_Buoi11/com/btvn_buoi11/bai1/gui/GameManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BTVN_Buoi11/com/btvn_buoi11/bai1/gui/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BTVN_Buoi11/com/btvn_buoi11/bai1/gui/MyFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BTVN_Buoi11/com/btvn_buoi11/bai1/gui/MyPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BTVN_Buoi11/com/btvn_buoi11/bai1/gui/OTrong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BTVN_Buoi11/com/btvn_buoi11/bai1/images/Dau_o.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BTVN_Buoi11/com/btvn_buoi11/bai1/images/Dau_x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BTVN_Buoi11/com/btvn_buoi11/bai1/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BTVN_Buoi11/com/btvn_buoi11/bai1/until/ImageLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai1/gui/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai1/gui/GameManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai1/gui/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai1/gui/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai1/gui/MyPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai1/gui/OTrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai1/images/Dau_o.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai1/images/Dau_x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai1/images/trang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai1/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai1/until/ImageLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/images/bg_contai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/images/bg_over.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/images/bird.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/images/brick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/images/bt_back0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/images/bt_back1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/images/bt_ok0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/images/bt_ok1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/images/bt_pause0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/images/bt_pause1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/images/bt_start0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/images/bt_start1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/images/bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/images/explosion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/images/grass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/images/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/images/icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/images/rock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/images/tower.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/images/tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/images/water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/t3h/gui/TankFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/t3h/gui/TankPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/t3h/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/t3h/model/GameManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/t3h/model/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/t3h/model/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/btvn_buoi11/bai2/t3h/until/ImageLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/Buoi10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/com/t3h/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/com/t3h/gui/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/com/t3h/gui/MyPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/com/t3h/gui/MyPanelGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/com/t3h/gui/MyPanelMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/bird.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/bonus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/boss1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/boss2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/boss22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/boss31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/boss32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/boss33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/bum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/game_start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/gift.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/icon_boss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/num_level.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/unit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MAPS/map1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MAPS/map2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MAPS/map3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MAPS/map4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MAPS/map5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MAPS/map6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MAPS/map7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MAPS/map8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MAPS/map9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/ProjectSnakeVsBlock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/gui/SnakeFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/gui/SnakePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/com/project/gui/SnakeFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/com/project/gui/SnakePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/com/project/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/com/project/model/Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/com/project/model/GameManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/images/BlueCircle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/images/GreenCircle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/images/RedCircle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/images/YellowCircle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/SnakeVsBlock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/BallTokens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/Blocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/BlueCircle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/BurstAnimation.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/DataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/DestroyBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/GamePlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/GreenCircle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/HomeCtrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/HomeScreen.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/LeadCtrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/Leaderboard.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/LeadersBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/LogInPage.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/LoginCtrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/Magnet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/PlayDisp.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/RedCircle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/Settings.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/SettingsCtrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/Shield.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/TBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/TokenBallInher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/Tokens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/YellowCircle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-beach_ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-cheap-2-96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-cooling-80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-decision-80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-exit_sign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-flip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-football2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-forest-96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-landscape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-leaderboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-mega_ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-night-80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-night_landscape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-password-100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-plus-100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-ultra_ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/icons8-western-96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/noun_Settings_937613.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeVsBlock/src/sound.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/Tank90.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/map_tank/map1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/map_tank/map2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/com/t3h/gui/TankFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/com/t3h/gui/TankPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/com/t3h/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/com/t3h/model/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/com/t3h/model/Bullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/com/t3h/model/GameManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/com/t3h/model/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/com/t3h/model/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/com/t3h/until/ImageLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/MyImage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/appear_tank1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/appear_tank2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/appear_tank3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bg_Control.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bg_contai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bg_contai_panel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bg_containbt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bg_over.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bird.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bonus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/boss1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/boss2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/boss22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/boss31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/boss32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/boss33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bossyellow_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bossyellow_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bossyellow_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bossyellow_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/brick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bt_back0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bt_back1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bt_cancel0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bt_cancel1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bt_ok0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bt_ok1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bt_pause0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bt_pause1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bt_start0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bt_start1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bullet_exp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bullet_exp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bullet_exp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/bullet_exp4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/chim1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/chim2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/chim3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/chim4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/den.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/drawfirst1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/drawfirst2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/explosion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/game_start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/gift.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/grass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/icon_boss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/la3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/num_level.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/player_green_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/player_green_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/player_green_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/player_green_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/player_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/player_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/player_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/rock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/tank_exp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/tank_exp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/tank_exp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/tank_exp4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/tank_exp5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/tower.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/trang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/unit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/images/water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/sounds/enter_game.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/sounds/explosion.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/sounds/explosion_tank.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/sounds/move.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90/src/sounds/shoot.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/Tank90.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/com/t3h/model/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/com/t3h/model/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/bonus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/boss1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/boss2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/boss22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/boss31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/boss32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/boss33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/bum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/chim1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/chim2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/chim3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/chim4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/da2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/da5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/den.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/gach.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/game_start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/gift.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/icon_boss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/la3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/num_level.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/trang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/troi1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tank90_In_Home/src/images/unit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVN_Buoi9/out/production/BTVN_Buoi9/com/btvn_buoi9/bai1/SmartString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVN_Buoi9/out/production/BTVN_Buoi9/com/btvn_buoi9/bai1/SmartString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVN_Buoi9/out/production/BTVN_Buoi9/com/btvn_buoi9/bai2/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVN_Buoi9/out/production/BTVN_Buoi9/com/btvn_buoi9/bai2/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVN_Buoi9/src/com/btvn_buoi9/bai1/SmartString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVN_Buoi9/src/com/btvn_buoi9/bai1/SmartString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVN_Buoi9/src/com/btvn_buoi9/bai2/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVN_Buoi9/src/com/btvn_buoi9/bai2/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVN_Buoi9/src/com/btvn_buoi9/bai2/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVN_Buoi9/src/com/btvn_buoi9/bai2/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Btvn_Buoi3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Btvn_Buoi3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi8/out/production/Buoi8/com/t3h/file/FileManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi8/out/production/Buoi8/com/t3h/file/FileManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi8/out/production/Buoi8/com/t3h/file/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi8/out/production/Buoi8/com/t3h/file/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi8/src/com/t3h/file/FileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi8/src/com/t3h/file/FileManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi8/src/com/t3h/file/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi8/src/com/t3h/file/Main.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1QofpO6FADGxHjOPLa8Zyq3YNkT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.btvn_buoi11.bai1.until" />
+      <recent name="com.btvn_buoi11.bai1.gui.until" />
+      <recent name="com.btvn_buoi11.bai1.main" />
+      <recent name="com.btvn_buoi11.bai1.gui" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\T3Hs\Java_android_t3h\BTVN_Buoi11\src\com\btvn_buoi11\bai2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.btvn_buoi11.bai1.main.Main" />
+      <module name="BTVN_Buoi11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.btvn_buoi11.bai1.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a80cc17-ec2e-41bc-b00a-ac9e263eb3d6" name="Default Changelist" comment="" />
+      <created>1568442051158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568442051158</updated>
+      <workItem from="1568442053112" duration="5624000" />
+      <workItem from="1568448177893" duration="1007000" />
+      <workItem from="1568645280547" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

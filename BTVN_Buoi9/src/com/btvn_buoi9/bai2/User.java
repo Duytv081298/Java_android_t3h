@@ -51,7 +51,6 @@ public class User {
             System.out.println("Đổi mật khẩu thành công");
             return password;
         }
-
         System.out.println("Mật khẩu không hợp lệ");
         return "";
     }

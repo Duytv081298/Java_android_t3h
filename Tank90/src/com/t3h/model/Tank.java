@@ -23,7 +23,21 @@ public abstract class Tank {
     public void draw(Graphics2D g2d){
         g2d.drawImage(images[orient], x, y,null);
     }
-    public void move(){
+    private boolean checkMap(ArrayList<Map> arr){
+        for (Map m : arr) {
+            if(m.getBit() == 3 || m.getBit() == 4){
+                continue;
+            }
+            Rectangle rect = getRect()
+                    .intersection(m.getRect());
+            if (rect.isEmpty() == false){
+                return false;
+            }
+        }
+        return true;
+    }
+
+    public void move(ArrayList<Map> arr){
         int xR = x;
         int yR = y;
         switch (orient){
@@ -40,11 +54,14 @@ public abstract class Tank {
                 y += speed;
                 break;
         }
-
         if(x<=0 || x>= TankFrame.W_FRAME - images[orient].getHeight(null)-18){
             x= xR;
         }if(y<=0 || y>= TankFrame.H_FRAME - images[orient].getHeight(null)-40){
             y= yR;
+        }
+        if(checkMap(arr) == false){
+            x = xR;
+            y = yR;
         }
     }
     private long t;
@@ -60,8 +77,14 @@ public abstract class Tank {
         arr.add(b);
     }
     public Rectangle getRect(){
-        Rectangle rect = new Rectangle(x,y, images[orient].getWidth(null),
-                                            images[orient].getHeight(null));
+        int w = images[orient].getWidth(null);
+        int h = images[orient].getHeight(null);
+        if(orient == UP || orient == DOWN){
+            w -= 1;
+        }else {
+            h -= 2;
+        }
+        Rectangle rect = new Rectangle(x,y,w,h);
         return rect;
     }
     public boolean checkDie(ArrayList<Bullet> arr){

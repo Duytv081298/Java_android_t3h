@@ -7,14 +7,15 @@ import java.util.ArrayList;
 import java.util.Random;
 
 public class Block {
+    protected   int x, y;
     public static final int W_BLOCK = SnakeFrame.W_FRAME/5;
     public static final int H_BLOCK = SnakeFrame.H_FRAME/12;
-    private Random rd = new Random();
-
     public static final ArrayList<Integer> points = new ArrayList<>();
 
+    private Random rd = new Random();
+
     public static final Color COLORS[] = {Color.WHITE, Color.GREEN, Color.YELLOW, Color.MAGENTA, Color.RED};
-    protected   int x, y;
+
 
     public Block(int x, int y) {
         this.x = x;
@@ -78,14 +79,14 @@ public class Block {
         }
     }
     public void generate(ArrayList<Block> arr){
-        int kc[] = {150, 200, 225, 250, 300,325, 350};
-        int kct = rd.nextInt(7);
-        System.out.println(kc[kct]);
+        int kc[] = {50, 150, 125, 200, 175};
+        int kct = rd.nextInt(5);
+//        System.out.println(kc[kct]);
         if(y <= kc[kct]){
             return;
         }
         for (int j = 0; j < SnakeFrame.W_FRAME / Block.W_BLOCK ; j++) {
-            Block block = new Block(Block.W_BLOCK*j, - Block.H_BLOCK );
+            Block block = new Block(Block.W_BLOCK*j, - Block.H_BLOCK*2 );
             arr.add(block);
         }
     }

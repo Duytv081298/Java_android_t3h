@@ -11,6 +11,7 @@ public class SnakePanel extends JPanel implements Runnable{
         setBackground(Color.BLACK);
         setLayout(null);
         manager.initGame();
+
         Thread t = new Thread(this);
         t.start();
 
@@ -30,7 +31,7 @@ public class SnakePanel extends JPanel implements Runnable{
             manager.AI();
             repaint();
             try {
-                Thread.sleep(20); // yêu cầu Thread nghỉ
+                Thread.sleep(7); // yêu cầu Thread nghỉ
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }

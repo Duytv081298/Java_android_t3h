@@ -28,10 +28,9 @@ public class SnakePanel extends JPanel implements Runnable{
         while (true) {
 
             manager.AI();
-
             repaint();
             try {
-                Thread.sleep(7); // yêu cầu Thread nghỉ
+                Thread.sleep(20); // yêu cầu Thread nghỉ
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }

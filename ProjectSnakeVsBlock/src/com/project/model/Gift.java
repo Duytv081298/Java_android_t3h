@@ -10,7 +10,7 @@ public class Gift {
     protected int x, y;
     public static final int W_Gift = SnakeFrame.W_FRAME / 20;
     public static final int H_Gift = SnakeFrame.H_FRAME / 30;
-    public static final ArrayList<Integer> pointGift = new ArrayList<>();
+    public static  ArrayList<Integer> pointGift = new ArrayList<>();
 
 
     private Random rd = new Random();
@@ -24,11 +24,10 @@ public class Gift {
                 RenderingHints.KEY_ANTIALIASING,
                 RenderingHints.VALUE_ANTIALIAS_ON
         );
-
         int point = rd.nextInt(11);
         pointGift.add(point);
-        this.x = rd.nextInt(SnakeFrame.W_FRAME);
-        this.y = 100 + rd.nextInt(SnakeFrame.H_FRAME - 100);
+        this.x = 10+ rd.nextInt(SnakeFrame.W_FRAME + 10);
+        this.y = 10+ rd.nextInt(SnakeFrame.H_FRAME/3);
 
         g2d.setColor(Color.RED);
         g2d.fillOval(x, y, W_Gift, H_Gift);
@@ -63,11 +62,11 @@ public class Gift {
     private long t;
 
     public void generate(ArrayList<Gift> arr) {
-//        Long T = System.currentTimeMillis();
-//        if (T - t < 750) {
-//            return;
-//        }
-//        t = T;
+        Long T = System.currentTimeMillis();
+        if (T - t < 750) {
+            return;
+        }
+        t = T;
         for (int i = 0; i < 7; i++) {
             Gift gift = new Gift();
             arr.add(gift);

@@ -19,7 +19,6 @@ public class GameManager {
 
 
     public void generate(){
-
         for (int j = 0; j < SnakeFrame.W_FRAME / Block.W_BLOCK ; j++) {
             Block block = new Block(Block.W_BLOCK*j, - Block.H_BLOCK );
             blocks.add(block);
@@ -35,20 +34,25 @@ public class GameManager {
     public void draw(Graphics2D g2d){
         for (int i = blocks.size() -1; i >= blocks.size() -5 ; i--) {
             blocks.get(i).draw(g2d);
-            System.out.println( blocks.size());
+            System.out.println("block Gift:   " + blocks.size());
         }
+
         for (int i = 0; i <= blocks.size() -6 ; i++) {
             int point  = Block.points.get(i);
             blocks.get(i).drawMove(g2d, point );
         }
+
         for (int i = gifts.size() -1; i >= gifts.size()-7 ; i--) {
             gifts.get(i).draw(g2d);
-            System.out.println( gifts.size());
         }
-        for (int i = 0; i <= gifts.size() -8 ; i++) {
-            int point  = Gift.pointGift.get(i);
-            gifts.get(i).drawMove(g2d, point );
-        }
+
+        System.out.println("size Gift:   " + gifts.size());
+        System.out.println("size pointGift:   " + Gift.pointGift.size());
+
+//        for (int i = 0; i <= gifts.size() -8 ; i++) {
+//            int point  = Gift.pointGift.get(i);
+//            gifts.get(i).drawMove(g2d, point );
+//        }
 
     }
 

@@ -173,11 +173,9 @@ public class GameManager {
                     .intersection(snakes.get(0).getRectUp());
             if (rectRight.isEmpty() == false){
                 CheckRight = false;
-            }
-            if(rectLeft.isEmpty() == false){
+            }else if(rectLeft.isEmpty() == false){
                 CheckLeft = false;
-            }
-            if (rectUp.isEmpty() == false) {
+            } else if (rectUp.isEmpty() == false) {
                 CHECKMOVE = -1;
                 CheckLeft = true;
                 CheckRight = true;

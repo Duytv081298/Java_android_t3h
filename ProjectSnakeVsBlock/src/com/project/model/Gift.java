@@ -33,7 +33,7 @@ public class Gift {
 
         g2d.setColor(Color.white);
         g2d.setFont(new Font(null, Font.BOLD, 15));
-        g2d.drawString(point + "", x + W_Gift / 2 - 1, y + W_Gift / 3);
+        g2d.drawString(point + "", x + W_Gift / 2-5, y + W_Gift / 2+4);
     }
 
     public boolean move() {

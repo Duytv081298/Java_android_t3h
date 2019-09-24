@@ -22,21 +22,28 @@ public class GameManager {
     public static ArrayList<Fence> fences;
 
     public void initGame() {
+        checkDie = false;
         gifts = new ArrayList<>();
         blocks = new ArrayList<>();
         snakes = new ArrayList<>();
         fences = new ArrayList<>();
         generate();
+
     }
     public void snakeMove(int newOrient) {
-        for (int j = 0; j < snakes.size() - 1; j++) {
-            if (j == 0) {
-                snakes.get(j).chaneOrient(newOrient);
-                snakes.get(j).move();
-            }
-            int xj1 = snakes.get(j).getX();
-            snakes.get(j + 1).setX(xj1);
-        }
+//        for (int i = snakes.size() - 1; i >=0 ; i--) {
+//            if (i == 0) {
+//                snakes.get(i).chaneOrient(newOrient);
+//                snakes.get(i).move();
+//            }else {
+//                snakes.get(i).setX(snakes.get(i-1).getX());
+//            }
+//        }
+        snakes.get(0).chaneOrient(newOrient);
+        snakes.get(0).move();
+
+
+
     }
 
 
@@ -216,9 +223,9 @@ public class GameManager {
             }
         }
 
-        if(checkDie == true){
-            System.exit(0);
-        }
+//        if(checkDie == true){
+//            System.exit(0);
+//        }
         for (int i = fences.size() - 1; i >= 0; i--) {
             if(checkMoveSnake() == false && checkSnakeToBlock() == false){
                 boolean moveFence = fences.get(i).move();
@@ -229,10 +236,8 @@ public class GameManager {
 
         }
 
-
-
-
-
-
+        for (int i = snakes.size() - 1; i >0 ; i--) {
+            snakes.get(i).setX(snakes.get(i-1).getX());
+        }
     }
 }

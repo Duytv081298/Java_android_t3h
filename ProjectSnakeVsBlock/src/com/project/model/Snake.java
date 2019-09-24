@@ -55,7 +55,7 @@ public class Snake {
 
         g2d.setColor(Color.white);
         g2d.setFont(new Font(null, Font.BOLD, 20));
-        g2d.drawString(point + "", x+ W_SNAKE/2-6, y+ W_SNAKE/3*2+1);
+        g2d.drawString(point + "", x+ W_SNAKE/2 - 10, y-5);
     }
 
     public void drawPhu(Graphics2D g2d){
@@ -76,6 +76,7 @@ public class Snake {
         if(x<=0 || x>= SnakeFrame.W_FRAME - 47){
             x= xR;
         }
+
     }
 
     public void chaneOrient(int newOrient){

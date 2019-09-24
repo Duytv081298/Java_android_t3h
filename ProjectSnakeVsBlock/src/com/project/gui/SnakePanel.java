@@ -105,7 +105,20 @@ public class SnakePanel extends JPanel implements Runnable, KeyListener {
                     manager.snakeMove((Snake.RIGHT));
             }
             manager.AI();
+
             repaint();
+            if (GameManager.checkDie == true){
+                int result = JOptionPane.showConfirmDialog(null, "DO you wan to replay", "Game over",
+                        JOptionPane.YES_NO_OPTION,
+                        JOptionPane.QUESTION_MESSAGE);
+                if (result == JOptionPane.YES_OPTION ){
+                    flags = new boolean[256];
+                    manager.initGame();
+
+                }else {
+                    System.exit(0);
+                }
+            }
             setSleep();
             try {
                 Thread.sleep(sleep);

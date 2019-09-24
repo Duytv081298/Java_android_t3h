@@ -2,7 +2,9 @@ package com.t3h.gui;
 
 import com.t3h.model.GameManager;
 import com.t3h.model.Tank;
+import com.t3h.until.SoundLoader;
 
+import javax.sound.sampled.Clip;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.KeyEvent;
@@ -11,6 +13,7 @@ import java.awt.event.KeyListener;
 public class TankPanel extends JPanel implements KeyListener,Runnable {
     private GameManager manager = new GameManager();
     private boolean[] flags = new boolean[256]; //256 phím và tổ hợp phím
+    private Clip clip;
     public TankPanel() {
         setBackground(Color.BLACK);
         manager.initGame();
@@ -54,11 +57,29 @@ public class TankPanel extends JPanel implements KeyListener,Runnable {
         flags[keyEvent.getKeyCode()] = true;
 
 
+
     }
 
     @Override
     public void keyReleased(KeyEvent keyEvent) { // keyReleased: Nhả phím
         flags[keyEvent.getKeyCode()] = false;
+    }
+    private void checkSoundMove(){
+        if( flags[KeyEvent.VK_LEFT]
+                ||flags[KeyEvent.VK_RIGHT]
+                || flags[KeyEvent.VK_UP]
+                || flags[KeyEvent.VK_DOWN]){
+            if(clip == null){
+                    clip = SoundLoader.play("move.wav");
+                    clip.loop(Clip.LOOP_CONTINUOUSLY);
+            }
+        }else {
+            if(clip != null){
+                clip.stop();
+                clip = null;
+            }
+
+        }
     }
 
     @Override
@@ -79,6 +100,7 @@ public class TankPanel extends JPanel implements KeyListener,Runnable {
             if(flags[KeyEvent.VK_SPACE]){
                 manager.playerFrire();
             }
+            checkSoundMove();
             boolean isDie = manager.AI();
             if (isDie){
                 int result = JOptionPane.showConfirmDialog(null, "DO you wan to replay", "Game over",

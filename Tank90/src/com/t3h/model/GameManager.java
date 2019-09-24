@@ -1,12 +1,14 @@
 package com.t3h.model;
 
 import com.t3h.gui.TankFrame;
+import com.t3h.until.SoundLoader;
 
 import java.awt.*;
 import java.awt.font.FontRenderContext;
 import java.util.ArrayList;
 
 public class GameManager {
+
     private Player player;
     private Boss boss;
     private ArrayList<Boss> arrBoss;
@@ -16,6 +18,8 @@ public class GameManager {
 
     public void initGame() {
 //        player = new Player(200,200,3);
+
+        SoundLoader.play("enter_game.wav");
         arrMap = MapManager.readMap("map1.txt");
         arrBulletBoss = new ArrayList<>();
         arrBulletPlayer = new ArrayList<>();
@@ -76,6 +80,7 @@ public class GameManager {
                 Rectangle rect = arrMap.get(i).getRect()
                         .intersection(arr.get(j).getRect());
                 if (rect.isEmpty() == false) {
+                    SoundLoader.play("explosion.wav");
                     switch (bit) {
                         case 1:
                             arrMap.remove(i);
@@ -100,6 +105,7 @@ public class GameManager {
     }
 
     public boolean AI() {
+
         for (int i = arrBoss.size() - 1; i >= 0; i--) {
             arrBoss.get(i).generateOrient();
             arrBoss.get(i).move(arrMap);

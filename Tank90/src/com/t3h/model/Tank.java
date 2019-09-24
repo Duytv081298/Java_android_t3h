@@ -2,6 +2,7 @@ package com.t3h.model;
 
 import com.t3h.gui.TankFrame;
 import com.t3h.gui.TankPanel;
+import com.t3h.until.SoundLoader;
 
 import java.awt.*;
 import java.util.ArrayList;
@@ -70,6 +71,9 @@ public abstract class Tank {
         if(T - t <500){
             return;
         }
+        if(this instanceof Player){
+            SoundLoader.play("shoot.wav");
+        }
         t = T;
         int xB = x + images[orient].getWidth(null)/2;
         int yB = y + images[orient].getHeight(null)/2;
@@ -93,6 +97,7 @@ public abstract class Tank {
                     .intersection(arr.get(i).getRect()); // intersection kiểm tra giao nhau giữa 2 hình chữ nhật nếu giao trả về 1 hình trữ nhật
             if (rect.isEmpty() == false){
                 arr.remove(i);
+                SoundLoader.play("explosion_tank.wav");
                 return  true;
             }
         }

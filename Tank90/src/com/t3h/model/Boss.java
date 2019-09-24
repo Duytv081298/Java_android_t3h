@@ -1,6 +1,7 @@
 package com.t3h.model;
 
 import com.t3h.until.ImageLoader;
+import org.w3c.dom.ls.LSOutput;
 
 import java.awt.*;
 import java.util.Random;
@@ -25,5 +26,7 @@ public class Boss extends Tank {
 
         int newOrient = rd.nextInt(4);
         orient = newOrient;
+
     }
+
 }

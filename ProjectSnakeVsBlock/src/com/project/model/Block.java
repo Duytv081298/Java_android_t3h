@@ -74,7 +74,7 @@ public class Block {
 
 
     public boolean move(){
-        if (GameManager.CHECKMOVE >= 0) {
+        if (GameManager.CHECKMOVE > 0) {
             y += 2;
             if (y >= SnakeFrame.H_FRAME + H_BLOCK) {
                 return false;

@@ -1,22 +1,23 @@
 package com.project.gui;
 
-import com.project.model.GameManager;
-import com.project.model.Snake;
+        import com.project.model.GameManager;
+        import com.project.model.Snake;
 
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.KeyEvent;
-import java.awt.event.KeyListener;
+        import javax.sound.sampled.Clip;
+        import javax.swing.*;
+        import java.awt.*;
+        import java.awt.event.KeyEvent;
+        import java.awt.event.KeyListener;
 
 public class SnakePanel extends JPanel implements Runnable, KeyListener {
     public static int TOTAL_SCORE = 0;
-    private long t = 0;
+
     private int sleep ;
     private GameManager manager = new GameManager();
     private boolean[] flags = new boolean[256];
 
     public SnakePanel() {
-        setBackground(Color.BLACK);
+        setBackground(Color.gray);
         setLayout(null);
         manager.initGame();
         setFocusable(true);
@@ -99,20 +100,22 @@ public class SnakePanel extends JPanel implements Runnable, KeyListener {
     @Override
     public void run() {
         while (true) {
-            if(flags[KeyEvent.VK_LEFT] && GameManager.CheckLeft == true){
+            if(flags[KeyEvent.VK_LEFT] ){
                 manager.snakeMove((Snake.LEET));
-            }else if(flags[KeyEvent.VK_RIGHT] && GameManager.CheckRight == true){
-                    manager.snakeMove((Snake.RIGHT));
+            }else if(flags[KeyEvent.VK_RIGHT]){
+                manager.snakeMove((Snake.RIGHT));
             }
             manager.AI();
 
             repaint();
-            if (GameManager.checkDie == true){
+            if (GameManager.CHECKDIE == true){
+                GameManager.clip.stop();
                 int result = JOptionPane.showConfirmDialog(null, "DO you wan to replay", "Game over",
                         JOptionPane.YES_NO_OPTION,
                         JOptionPane.QUESTION_MESSAGE);
                 if (result == JOptionPane.YES_OPTION ){
                     flags = new boolean[256];
+                    TOTAL_SCORE = 0;
                     manager.initGame();
 
                 }else {

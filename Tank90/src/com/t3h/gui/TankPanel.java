@@ -72,6 +72,7 @@ public class TankPanel extends JPanel implements KeyListener,Runnable {
             if(clip == null){
                     clip = SoundLoader.play("move.wav");
                     clip.loop(Clip.LOOP_CONTINUOUSLY);
+
             }
         }else {
             if(clip != null){

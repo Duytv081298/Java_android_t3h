@@ -45,15 +45,23 @@ public class Gift {
             }
         }
         return true;
-
     }
+
+    public boolean moveAuto() {
+        y += 2;
+        if (y >= SnakeFrame.H_FRAME + W_Gift) {
+            return false;
+        }
+        return true;
+    }
+
     public void generate(ArrayList<Gift> arr) {
         if (arr.get(arr.size() - 1).getY() <= 350) {
             return;
         }
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i < 2; i++) {
             int x = 50 + rd.nextInt(SnakeFrame.W_FRAME - 80);
-            int y = 50 + rd.nextInt(200);
+            int y = -200 + rd.nextInt(200);
             point = 1 + rd.nextInt(11);
             Gift gift = new Gift(x, y, point);
             arr.add(gift);
@@ -61,7 +69,7 @@ public class Gift {
     }
 
     public Rectangle getRect() {
-        Rectangle rect = new Rectangle(x, y, W_Gift, W_Gift);
+        Rectangle rect = new Rectangle(x + 7, y + 7, W_Gift - 14, W_Gift - 14);
         return rect;
     }
 }

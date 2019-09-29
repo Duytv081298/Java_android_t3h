@@ -57,7 +57,7 @@ public class Fence {
         if (y <= 10) {
             return;
         }
-        amountFence = 0 + rd.nextInt(4);
+        amountFence = 0 + rd.nextInt(3);
         for (int i = 0; i < amountFence; i++) {
             int x = 1 + rd.nextInt(4);
             int h_fence = 2 + rd.nextInt(2);

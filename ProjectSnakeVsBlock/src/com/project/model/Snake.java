@@ -10,11 +10,17 @@ import java.util.ArrayList;
 
 public class Snake {
 
-    private int x;                                 public static final int W_SNAKE = 60;
-    private int y;                                 public static final int H_SNAKE = 95;
-    private int orient;                            public static final int LEET = 0;
-    private int point;                             public static final int RIGHT = 1;
-    private Image[] images;                        public static int speed = 3;
+    private int x;
+    public static final int W_SNAKE = 60;
+    private int y;
+    public static final int H_SNAKE = 95;
+    private int orient;
+    public static final int LEET = 0;
+    private int point;
+    public static final int RIGHT = 1;
+    private Image[] images;
+    public static int speed = 3;
+    private GameManager manager = new GameManager();
 
 
     public int getPoint() {
@@ -23,6 +29,14 @@ public class Snake {
 
     public void setPoint(int point) {
         this.point = point;
+    }
+
+    public int getX() {
+        return x;
+    }
+
+    public int getY() {
+        return y;
     }
 
     public Snake(int x, int y) {
@@ -40,7 +54,7 @@ public class Snake {
         g2d.setFont(new Font(null, Font.BOLD, 20));
         g2d.drawString(point + "", x + W_SNAKE / 2 - 10, y - 5);
 
-        if (GameManager.CHECKMOVE == 1){
+        if (GameManager.CHECKMOVE == 1) {
             g2d.drawImage(images[GameManager.CHECKMOVE], x, y, W_SNAKE, H_SNAKE, null);
             return;
         }
@@ -51,8 +65,8 @@ public class Snake {
 
 
     public void move() {
-        boolean CheckLeft = GameManager.SnakeMoveLeft();
-        boolean CheckRight = GameManager.SnakeMoveRight();
+        boolean CheckLeft = manager.SnakeMoveLeft();
+        boolean CheckRight = manager.SnakeMoveRight();
         int xR = x;
         switch (orient) {
 

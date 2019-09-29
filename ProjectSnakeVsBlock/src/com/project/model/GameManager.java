@@ -2,6 +2,7 @@ package com.project.model;
 
 import com.project.gui.SnakeFrame;
 import com.project.gui.SnakePanel;
+import until.ImageLoader;
 import until.SoundLoader;
 
 import javax.sound.sampled.Clip;
@@ -11,17 +12,26 @@ import java.util.Random;
 
 public class GameManager {
     private Random rd = new Random();
-    public static boolean CHECKDIE = false;
-    public static Clip clip =  SoundLoader.play("Sign.wav");;
-    public static int CHECKMOVE = 1;
-    public static Snake snake;
-    public static ArrayList<Block> blocks;
     private int point;
     private long t;
-    public  ArrayList<Gift> gifts;
+    private ArrayList<Gift> gifts;
+    public boolean CHECKDIE = false;
+    public static Clip clip = SoundLoader.play("Sign.wav");
+    ;
+    public static int CHECKMOVE = 1;
 
-
+    public static Snake snake;
+    public static ArrayList<Block> blocks;
     public static ArrayList<Fence> fences;
+    private ArrayList<Gift> giftsTru;
+    private ArrayList<Mouse> mouses;
+
+    private Image background = ImageLoader.getImage("nen1.gif", getClass());
+
+    public static void setCHECKMOVE(int CHECKMOVE) {
+        GameManager.CHECKMOVE = CHECKMOVE;
+    }
+
 
     public void initGame() {
         CHECKDIE = false;
@@ -29,9 +39,11 @@ public class GameManager {
         gifts = new ArrayList<>();
         blocks = new ArrayList<>();
         fences = new ArrayList<>();
+        giftsTru = new ArrayList<>();
+        mouses = new ArrayList<>();
         generate();
-
     }
+
 
     public void snakeMove(int newOrient) {
         snake.chaneOrient(newOrient);
@@ -55,10 +67,13 @@ public class GameManager {
         }
         Fence fence = new Fence(Block.W_BLOCK, 0, 100);
         fences.add(fence);
+        Mouse mouse = new Mouse(400, -200);
+        mouses.add(mouse);
 
     }
 
     public void draw(Graphics2D g2d) {
+        g2d.drawImage(background, 0, 0, SnakeFrame.W_FRAME, SnakeFrame.H_FRAME, null);
 
         for (Block b : blocks
         ) {
@@ -68,12 +83,22 @@ public class GameManager {
         ) {
             g.draw(g2d);
         }
+
         for (Fence f : fences
         ) {
             f.draw(g2d);
-
         }
+        for (Gift g : giftsTru
+        ) {
+            g.draw(g2d);
+        }
+        for (Mouse m : mouses
+        ) {
+            m.draw(g2d);
+        }
+
         snake.draw(g2d);
+
     }
 
     private void truPoint(int i) {
@@ -85,6 +110,10 @@ public class GameManager {
             int y = blocks.get(i).getY();
             int newPointSnake = snake.getPoint() - 1;
             blocks.set(i, new Block(x, y, newPointBlock));
+
+            Gift gift = new Gift(snake.getX(), snake.getY() + 30, 1);
+            giftsTru.add(gift);
+
             snake.setPoint(newPointSnake);
             t = T;
             if (newPointBlock == 0) {
@@ -110,6 +139,17 @@ public class GameManager {
             }
         }
         return false;
+    }
+
+    private void checkSnakeToMouse() {
+        for (int i = mouses.size() - 1; i >= 0; i--) {
+            Rectangle rectUp = mouses.get(i).getRect()
+                    .intersection(snake.getRect());
+            if (rectUp.isEmpty() == false) {
+                SnakePanel.TOTAL_SCORE -= 100;
+                mouses.remove(i);
+            }
+        }
     }
 
     public static boolean SnakeMoveRight() {
@@ -180,9 +220,11 @@ public class GameManager {
     public void AI() {
         blocks.get(blocks.size() - 1).generate(blocks);
         gifts.get(gifts.size() - 1).generate(gifts);
+        mouses.get(mouses.size() - 1).generate(mouses);
 
         fences.get(fences.size() - 1).generate(fences);
         checkSnakeToGift();
+        checkSnakeToMouse();
         for (int i = gifts.size() - 1; i >= 0; i--) {
             boolean moveGift = gifts.get(i).move();
             if (moveGift == false) {
@@ -190,7 +232,7 @@ public class GameManager {
             }
         }
         for (int i = blocks.size() - 1; i >= 0; i--) {
-            if (checkSnakeToBlock() == false && checkMoveSnake() == false) {
+            if (checkSnakeToBlock() == false && checkMoveSnake() == false && CHECKMOVE > 0) {
                 boolean moveBlock = blocks.get(i).move();
                 if (moveBlock == false) {
                     blocks.remove(i);
@@ -198,10 +240,24 @@ public class GameManager {
             }
         }
         for (int i = fences.size() - 1; i >= 0; i--) {
-            if (checkMoveSnake() == false && checkSnakeToBlock() == false) {
+            if (checkMoveSnake() == false && checkSnakeToBlock() == false && CHECKMOVE > 0) {
                 boolean moveFence = fences.get(i).move();
                 if (moveFence == false) {
                     fences.remove(i);
+                }
+            }
+        }
+        for (int i = giftsTru.size() - 1; i >= 0; i--) {
+            boolean moveFence = giftsTru.get(i).moveAuto();
+            if (moveFence == false) {
+                giftsTru.remove(i);
+            }
+        }
+        for (int i = mouses.size() - 1; i >= 0; i--) {
+            if (checkMoveSnake() == false && checkSnakeToBlock() == false && CHECKMOVE > 0) {
+                boolean moveFence = mouses.get(i).move();
+                if (moveFence == false) {
+                    mouses.remove(i);
                 }
             }
         }

@@ -1,61 +1,80 @@
 package com.project.gui;
 
+import com.project.model.Block;
 import until.ImageLoader;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.util.ArrayList;
+import java.util.Random;
 
 public class MenuPanel extends JPanel implements ActionListener {
-    private JLabel lbTitle;
-    private JTextField tfPlayerInfor;
+    private Random rd = new Random();
     private JButton btnOk;
-    private Image bg = ImageLoader.getImage("Menu.jpg" , getClass());
+    private JButton btnExit;
+    private Image bg = ImageLoader.getImage("Menu.png" , getClass());
+    private ArrayList<Block> blocks;
 
     public MenuPanel() {
+        blocks = new ArrayList<>();
         setLayout(null);
-        setBackground(Color.gray);
         initComponents();
     }
 
     private void initComponents() {
-        lbTitle = new JLabel();
-        lbTitle.setForeground(Color.red);
-        lbTitle.setFont(new Font(
-                null,
-                Font.BOLD,
-                20
-        ));
-        lbTitle.setText("Snake Vs Block");
-        lbTitle.setBounds(100, 100, 200, 200);
-        add(lbTitle);
-
-        tfPlayerInfor = new JTextField();
-        tfPlayerInfor.setBounds(100, 300, 300, 30);
-        add(tfPlayerInfor);
 
         btnOk = new JButton();
-        btnOk.setText("OK");
-        btnOk.setBounds(100, 500, 70, 30);
+        btnOk.setIcon(new ImageIcon(ImageLoader.getImage("Play.png" , getClass())));
+        btnOk.setBounds(40, 400, 149, 54);
         add(btnOk);
         btnOk.addActionListener(this);
 
+        btnExit = new JButton();
+        btnExit.setIcon(new ImageIcon(ImageLoader.getImage("cancel1.png" , getClass())));
+        btnExit.setBounds(40, 500, 150, 47);
+        add(btnExit);
+        btnExit.addActionListener(this);
+
+        for (int j = 0; j <= 4; j++) {
+            int point = 1 + rd.nextInt(45);
+            Block block = new Block(Block.W_BLOCK * j, 645, point);
+            blocks.add(block);
+        }
+
+
     }
-
-    @Override
-    public void actionPerformed(ActionEvent actionEvent) {
-        JOptionPane.showMessageDialog(
-                null,
-                tfPlayerInfor.getText()
-        );
-
-    }
-
     @Override
     protected void paintComponent(Graphics g) {
         Graphics2D g2d = (Graphics2D) g;
+        g2d.setRenderingHint(
+                RenderingHints.KEY_ANTIALIASING,
+                RenderingHints.VALUE_ANTIALIAS_ON
+        );
         super.paintComponent(g);
-        g2d.drawImage(bg, 0,0, SnakeFrame.W_FRAME,SnakeFrame.H_FRAME, null);
+
+        for (Block b : blocks
+        ) {
+            b.draw(g2d);
+        }
+        g2d.setColor(Color.blue);
+        g2d.setFont(new Font("Bernard MT Condensed", Font.BOLD, 70));
+        g2d.drawString("Doraemon", 100,100);
+        g2d.drawString("Vs", 200,200);
+        g2d.drawString("Block", 150,300);
+
+        g2d.drawImage(bg, SnakeFrame.W_FRAME/3,350, 300,300,null);
+    }
+
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        if (e.getSource().equals(btnOk)) {
+            SnakeFrame frame = new SnakeFrame();
+            frame.setVisible(true);
+            SwingUtilities.getWindowAncestor(this).dispose();
+        }else {
+            System.exit(0);
+        }
     }
 }

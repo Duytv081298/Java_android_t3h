@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7aed6a21-dbca-490f-bf61-0e79f9764a30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlantsVsZombiesGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/gui/ZombieFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/gui/ZombiePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/model/Bullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/model/GameManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/model/ImageLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/model/LawnMower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/model/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/model/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/model/Plants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/model/PlantsVsZombies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/model/Score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/model/SoundManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/model/SunFlower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/t3h/model/Zombies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Counter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Pea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/active_beetroot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/active_peashooter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/active_sunflower.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/active_walnut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/backyard.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/beetbullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/beetroot.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/beetroot_dying.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/click_to_start.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/first_screen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gameOver.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gameOver.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/huge_wave_of_zombies_text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/inactive_beetroot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/inactive_peashooter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/inactive_sunflower.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/inactive_walnut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/lawn_mower.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/pea_shooter.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/pea_shooter_dying.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/shovel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/sun.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/sun_flower.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/sun_flower_dying.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/walnut_dead.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/walnut_full_life.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/walnut_half_life.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/zombie_football.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/zombie_football_dying.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/zombie_normal.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/zombie_normal_dying.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sounds/atebrains.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sounds/background.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sounds/chomp.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sounds/game_end.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sounds/lamborghini.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sounds/menu.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sounds/zombies_coming.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/gui/MenuFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/gui/MenuFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/gui/MenuPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/gui/MenuPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/gui/SnakePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/gui/SnakePanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/model/Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/model/Block.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/model/GameManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/model/GameManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/model/Snake.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/model/Snake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/com/project/gui/SnakePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/com/project/gui/SnakePanel.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1RXOtrOWCtPTG439oNoP4svks11" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.t3h.main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\T3Hs\Java_android_t3h\PlantsVsZombiesGame\src\com\t3h\model" />
+      <recent name="D:\T3Hs\Java_android_t3h\PlantsVsZombiesGame\src\com\t3h\gui" />
+      <recent name="D:\T3Hs\Java_android_t3h\PlantsVsZombiesGame\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.t3h.main.Main" />
+      <module name="PlantsVsZombiesGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.t3h.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aed6a21-dbca-490f-bf61-0e79f9764a30" name="Default Changelist" comment="" />
+      <created>1569810191310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569810191310</updated>
+      <workItem from="1569810193115" duration="7761000" />
+      <workItem from="1569921107915" duration="406000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/t3h/gui/ZombiePanel.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

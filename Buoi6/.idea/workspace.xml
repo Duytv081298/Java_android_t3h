@@ -2,38 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd290dc6-2491-4923-9207-80b9cf2e8145" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/images/Banh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/images/Doraemon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/images/Doraemon_dau.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/images/Menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/sounds/Sign.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/until/ImageLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/until/SoundLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Buoi3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Buoi4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi5/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/gui/MenuFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/gui/MenuFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/gui/MenuPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/gui/MenuPanel.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/gui/SnakePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/gui/SnakePanel.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/model/Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/model/Block.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/model/Fence.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/model/Fence.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/model/GameManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/model/GameManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/model/Gift.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/model/Gift.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/model/Snake.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/com/project/model/Snake.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/images/BlueCircle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/images/GreenCircle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/images/RedCircle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/out/production/ProjectSnakeVsBlock/images/YellowCircle.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/com/project/gui/SnakePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/com/project/gui/SnakePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/com/project/model/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/com/project/model/Block.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/com/project/model/Fence.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/com/project/model/Fence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/com/project/model/GameManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/com/project/model/GameManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/com/project/model/Gift.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/com/project/model/Gift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/com/project/model/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/com/project/model/Snake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/images/BlueCircle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/images/GreenCircle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/images/RedCircle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSnakeVsBlock/src/images/YellowCircle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tank90/src/com/t3h/gui/TankPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Tank90/src/com/t3h/gui/TankPanel.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +40,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/Test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -161,6 +137,7 @@
       <workItem from="1567762484862" duration="11000" />
       <workItem from="1567763525946" duration="2863000" />
       <workItem from="1569473258156" duration="645000" />
+      <workItem from="1569755557479" duration="104000" />
     </task>
     <servers />
   </component>

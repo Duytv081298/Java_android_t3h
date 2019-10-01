@@ -8,8 +8,11 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
+import java.util.ArrayList;
+import java.util.Collections;
 
 public class SnakePanel extends JPanel implements Runnable, KeyListener {
+    private ArrayList<Integer> total_score = new ArrayList<>();
     public static int TOTAL_SCORE = 0;
 
     private int sleep;
@@ -105,6 +108,22 @@ public class SnakePanel extends JPanel implements Runnable, KeyListener {
 
             repaint();
             if (manager.CHECKDIE == true) {
+                if(total_score.size() == 0){
+                    end("Điểm Cao Nhất", TOTAL_SCORE);
+                    total_score.add(TOTAL_SCORE);
+                }else {
+                    Collections.sort(total_score);
+                    if (TOTAL_SCORE >= total_score.get(total_score.size()-1)){
+                        end("Điểm Cao Nhất", TOTAL_SCORE);
+                        total_score.add(TOTAL_SCORE);
+                    }else if(TOTAL_SCORE <= total_score.get(0)){
+                        end("Bạn Người Tệ Hại", TOTAL_SCORE );
+                        total_score.add(TOTAL_SCORE);
+                    }else {
+                        end("Điểm Của Bạn Là", TOTAL_SCORE);
+                        total_score.add(TOTAL_SCORE);
+                    }
+                }
                 manager.clip.stop();
                 int result = JOptionPane.showConfirmDialog(null, "DO you wan to replay", "Game over",
                         JOptionPane.YES_NO_OPTION,
@@ -130,6 +149,18 @@ public class SnakePanel extends JPanel implements Runnable, KeyListener {
         }
 
 
+    }
+    public void end(String a , int b){
+        Graphics g = getGraphics();
+        Graphics2D g2d = (Graphics2D) g;
+        g2d.setRenderingHint(
+                RenderingHints.KEY_ANTIALIASING,
+                RenderingHints.VALUE_ANTIALIAS_ON
+        );
+        g.setColor(Color.white);
+        g2d.setFont(new Font(null, Font.BOLD, 35));
+        g2d.drawString(a, 120, 150);
+        g2d.drawString(b +"", 230, 210);
     }
 
 
